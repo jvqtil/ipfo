@@ -259,6 +259,7 @@ body {
   .links {
     padding-left:14px;
     padding-right:14px;
+    font-size:15px;
   }
 
   .row {
@@ -266,8 +267,9 @@ body {
   }
 
   .credit {
-  bottom:20px;
-}
+    bottom:20px;
+    font-size:14px;
+    }
 }
 </style>
 
