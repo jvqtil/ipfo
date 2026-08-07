@@ -262,7 +262,7 @@ body {
   }
 
   .row {
-    font-size:13px;
+    font-size:16px;
   }
 
   .credit {
