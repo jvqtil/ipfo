@@ -259,6 +259,9 @@ body {
   .links {
     padding-left:14px;
     padding-right:14px;
+  }
+
+  .links.a {
     font-size:15px;
   }
 
@@ -268,8 +271,7 @@ body {
 
   .credit {
     bottom:20px;
-    font-size:14px;
-    }
+  }
 }
 </style>
 
