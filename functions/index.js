@@ -261,12 +261,9 @@ body {
     padding-right:14px;
   }
 
-  .links.a {
+  .links a,
+  row {
     font-size:15px;
-  }
-
-  .row {
-    font-size:16px;
   }
 
   .credit {
