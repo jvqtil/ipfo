@@ -41,6 +41,7 @@ export async function onRequest({ request }) {
       ["POP", cf.colo]
     ];
 
+// All the CSS was written by an AI.
     const html = `
 <!doctype html>
 <html>
@@ -316,6 +317,10 @@ ${clickable && value
   and
   <a href="https://freedns.afraid.org/" target="_blank">
     FreeDNS
+  </a>
+  •
+  <a href="https://github.com/jvqtil/ipfo" target="_blank">
+    Source
   </a>
 </div>
 
