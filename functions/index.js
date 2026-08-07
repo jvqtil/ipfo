@@ -252,7 +252,7 @@ body {
 
   .ip {
     padding:16px 14px;
-    font-size:25px;
+    font-size:32px;
   }
 
   .data,
