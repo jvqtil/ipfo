@@ -310,6 +310,10 @@ ${clickable && value
 </div>
 
 <div class="credit">
+  <a href="https://github.com/jvqtil/ipfo" target="_blank">
+    Source
+  </a>
+  •
   Powered by
     <a href="https://cloudflare.com/" target="_blank">
     Cloudflare
@@ -317,10 +321,6 @@ ${clickable && value
   and
   <a href="https://freedns.afraid.org/" target="_blank">
     FreeDNS
-  </a>
-  •
-  <a href="https://github.com/jvqtil/ipfo" target="_blank">
-    Source
   </a>
 </div>
 
