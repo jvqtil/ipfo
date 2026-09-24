@@ -319,10 +319,6 @@ ${clickable && value
     <a href="https://cloudflare.com/" target="_blank">
     Cloudflare
   </a>
-  and
-  <a href="https://freedns.afraid.org/" target="_blank">
-    FreeDNS
-  </a>
 </div>
 
 <div class="copy" id="copy">
